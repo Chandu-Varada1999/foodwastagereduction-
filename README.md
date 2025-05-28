@@ -34,10 +34,9 @@ However, by distributing these food leftovers to people who are unable to afford
 
 <b>Project Advisor:</b> Rashi Karanpuria, Google 
 
-* Anusha Datta
-* Anh Huynh
-* Shengjing Zhang
-* Yew Onn Khaw
+* Parish Kumar
+* Madhu
+* Anjireddy
 
 # Dev Guide
 This is a generated App Engine Standard Java application from the appengine-standard-archetype archetype.
